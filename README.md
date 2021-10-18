@@ -17,7 +17,7 @@
 
 [Link to course](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome).
 
--  [ ] [Week 1: Programming Challenges](resources/algorithmic-toolbox/week1_programming_challenges)
+-  [x] [Week 1: Programming Challenges](resources/algorithmic-toolbox/week1_programming_challenges)
 -  [ ] [Week 2: Algorithmic Warmup](resources/algorithmic-toolbox/week2_algorithmic_warmup)
 -  [ ] [Week 3: Greedy Algorithms](resources/algorithmic-toolbox/week3_greedy_algorithms)
 -  [ ] [Week 4: Divide and Conquer](resources/algorithmic-toolbox/week4_divide_and_conquer)
