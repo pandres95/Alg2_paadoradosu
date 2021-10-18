@@ -17,12 +17,12 @@
 
 [Link to course](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome).
 
--  [ ] Week 1 challenges
--  [ ] Week 2 challenges
--  [ ] Week 3 challenges
--  [ ] Week 4 challenges
--  [ ] Week 5 challenges
--  [ ] Week 6 challenges
+-  [ ] [Week 1: Programming Challenges](resources/algorithmic-toolbox/week1_programming_challenges)
+-  [ ] [Week 2: Algorithmic Warmup](resources/algorithmic-toolbox/week2_algorithmic_warmup)
+-  [ ] [Week 3: Greedy Algorithms](resources/algorithmic-toolbox/week3_greedy_algorithms)
+-  [ ] [Week 4: Divide and Conquer](resources/algorithmic-toolbox/week4_divide_and_conquer)
+-  [ ] [Week 5: Dynamic Programming 1](resources/algorithmic-toolbox/week5_dynamic_programming1)
+-  [ ] [Week 6: Dynamic Programming 2](resources/algorithmic-toolbox/week6_dynamic_programming2)
 
 ## 3. Labs
 
