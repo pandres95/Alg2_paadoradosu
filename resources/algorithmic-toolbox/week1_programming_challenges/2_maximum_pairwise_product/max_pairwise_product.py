@@ -1,15 +1,25 @@
+import sys
+
 def max_pairwise_product(numbers):
     n = len(numbers)
-    max_product = 0
-    for first in range(n):
-        for second in range(first + 1, n):
-            max_product = max(max_product,
-                numbers[first] * numbers[second])
+    
+    first = 0
+    first_ix = 0
+    second = 0
 
-    return max_product
+    for i in range(n):
+        if numbers[i] > first:
+            first = numbers[i]
+            first_ix = i
+    
+    for i in range(n):
+        if i != first_ix and numbers[i] > second:
+            second = numbers[i]
+
+    return first * second
 
 
 if __name__ == '__main__':
     input_n = int(input())
-    input_numbers = [int(x) for x in input().split()]
-    print(max_pairwise_product(input_numbers))
+    input_numbers = sys.stdin.readline()
+    print(max_pairwise_product([int(x) for x in input_numbers.split()]))
