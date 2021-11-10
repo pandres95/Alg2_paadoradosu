@@ -26,4 +26,8 @@
 
 ## 3. Labs
 
-> **TODO:** Insert labs here
+- [x] [Lab 2: Problemset](labs/lab2.ipynb)
+
+## 4. Quizzes
+
+- [x] [Quiz 1](quizzes/quiz1-20211108)
