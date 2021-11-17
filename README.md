@@ -8,6 +8,7 @@
 2. [Resources](#2-resources)
     1. [Algorithmic Toolbox](#21-algorithmic-toolbox)
 3. [Labs](#3-labs)
+4. [Quizzes](#4-quizzes)
 
 ## 1. Course structure
 
@@ -26,4 +27,8 @@
 
 ## 3. Labs
 
-> **TODO:** Insert labs here
+- [x] [Lab 2: Problemset](labs/lab2.ipynb)
+
+## 4. Quizzes
+
+- [x] [Quiz 1](quiz/20211108-quiz1)
