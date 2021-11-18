@@ -9,6 +9,7 @@
     1. [Algorithmic Toolbox](#21-algorithmic-toolbox)
 3. [Labs](#3-labs)
 4. [Quizzes](#4-quizzes)
+5. [Workshops](#5-workshops)
 
 ## 1. Course structure
 
@@ -32,3 +33,7 @@
 ## 4. Quizzes
 
 - [x] [Quiz 1](quiz/20211108-quiz1)
+
+## 5. Workshops
+
+- [x] [Covid19](workshops/20211117-covid19)
