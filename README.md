@@ -37,3 +37,4 @@
 ## 5. Workshops
 
 - [x] [Covid19](workshops/20211117-covid19)
+- [x] [Tree Search](workshops/20211204-treesearch)
